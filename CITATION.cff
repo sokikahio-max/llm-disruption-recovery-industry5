@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated manuscript and this software release."
+title: "Beyond Rescheduling: Human-Centric Governance and LLM Explanation Support for Manufacturing Disruption Recovery in Industry 5.0"
+version: 2.0.0
+type: software
+authors:
+  - family-names: "Kiangala"
+    given-names: "Kahiomba Sonia"
+  - family-names: "Wang"
+    given-names: "Zenghui"
+keywords:
+  - manufacturing disruption recovery
+  - Industry 5.0
+  - governance-aware decision support
+  - reactive scheduling
+  - large language models
+  - reproducible research
